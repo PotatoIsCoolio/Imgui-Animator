@@ -1,4 +1,4 @@
-![screenshot](UI.png)
+![ImGui Animator Preview](UI.png)
 # Imgui Animations
 
 A PySide6 based animation editor and code exporter made to create animated UI layouts for ImGui (Dear ImGui).
